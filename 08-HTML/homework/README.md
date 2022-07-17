@@ -3,7 +3,6 @@
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
 
 ## Ejercicio I
-
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
 I. Cree una página HTML básica.
